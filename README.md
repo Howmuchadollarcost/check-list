@@ -1,7 +1,5 @@
 # CheckList
 
-- [ ] Searchbar and Enter Button
-- [ ] Section to display the checklist (Maybe one small and one big)
-- [ ] A Done and Remove buttons
-- [ ] Edit the items
-- [ ] Filter tasks
+- [x] Searchbar and Enter Button
+- [x] Section to display the checklist (Maybe one small and one big)
+- [x] A Done and Remove buttons
