@@ -19,7 +19,11 @@ function removeTask(e) {
 
 function doneTask(e) {
     var doneText = event.path[1].childNodes[0];
+    var doneColor = event.path[0];
+    
     doneText.style.textDecoration = "line-through";
+    doneText.style.color = "#afafaf";
+    doneColor.style.backgroundColor = "#eee";
 }
 
 
